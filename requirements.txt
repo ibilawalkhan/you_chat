@@ -1,0 +1,28 @@
+# Langchain Core
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers
+
+# Environment Variables Management
+python-dotenv
+
+# Web UI
+streamlit
+
+# Vector Databases
+chromadb
+langchain_pinecone
+faiss-cpu
+
+youtube-transcript-api
